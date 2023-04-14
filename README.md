@@ -14,3 +14,8 @@ The height that can be calculated:
 - Bottom safety height
 - Height of the bottom navigation bar
 - Bottom navigation bar + safe zone height
+
+Features:
+- You can display the name synchronously while using it
+- Only need to import PCH file, can be used directly in all files
+- Easy to use
